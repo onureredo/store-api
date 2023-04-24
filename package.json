@@ -1,0 +1,19 @@
+{
+  "name": "nameless-store",
+  "version": "1.0.0",
+  "description": "WBS Coding School | Recap",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onureredo/nameless-store.git"
+  },
+  "author": "onureredo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onureredo/nameless-store/issues"
+  },
+  "homepage": "https://github.com/onureredo/nameless-store#readme"
+}
