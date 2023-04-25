@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Amazon Echo",
-    "image": "/images/echo.png",
+    "image": "https://i.ibb.co/rGQz5kp/echo.png",
     "category": "Smart Home",
     "description": "Your Home Assistant",
     "price": 59.99,
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "title": "Amazon Firestick",
-    "image": "/images/firestick.png",
+    "image": "https://i.ibb.co/frCYdJ9/firestick.png",
     "category": "Entertainment",
     "description": "Stream in 4K",
     "price": 84.99,
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "title": "Amazon Fire HD 10'",
-    "image": "/images/firehd.png",
+    "image": "https://i.ibb.co/F8nmxHQ/firehd.png",
     "category": "Tablet",
     "description": "12H Battery",
     "price": 99.99,
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "title": "Smart LED Light Bar",
-    "image": "/images/smartled.png",
+    "image": "https://i.ibb.co/qNsQdxk/smartled.png",
     "category": "Lighting",
     "description": "Easy connection to Alexa",
     "price": 74.99,
@@ -56,10 +56,10 @@
   {
     "id": 7,
     "title": "Lenovo Ideapad",
-    "image": "/images/ideapad.png",
+    "image": "https://i.ibb.co/bKy40Yk/ideapad.png",
     "category": "Tablet",
     "description": "2-in-1 Tablet incl. Pen",
     "price": 249.99,
-    "rating": { "rate": 3.5, "count": 70 }
+    "rating": { "rate": 2.5, "count": 70 }
   }
 ]
