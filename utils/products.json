@@ -38,7 +38,7 @@
   {
     "id": 5,
     "title": "Kindle Paperwhite (8GB)",
-    "image": "/images/kindle.png",
+    "image": "https://m.media-amazon.com/images/I/61DrwZInYTL._AC_SL1500_.jpg",
     "category": "E-Reader",
     "description": "Now with 6.8 inch",
     "price": 149.99,
@@ -47,10 +47,10 @@
   {
     "id": 6,
     "title": "LED Ring Light",
-    "image": "/images/ringlight.png",
+    "image": "https://m.media-amazon.com/images/I/61ZW72NuX0L._AC_SL1500_.jpg",
     "category": "Photography",
     "description": "With Clip & Tripod",
-    "price": 19.99,
+    "price": 29.99,
     "rating": { "rate": 4.0, "count": 110 }
   },
   {
@@ -59,6 +59,51 @@
     "image": "https://i.ibb.co/bKy40Yk/ideapad.png",
     "category": "Tablet",
     "description": "2-in-1 Tablet incl. Pen",
+    "price": 349.99,
+    "rating": { "rate": 2.5, "count": 70 }
+  },
+  {
+    "id": 8,
+    "title": "Apple AirPods Pro (2. Generation) ",
+    "image": "https://i.ibb.co/FV8smpn/airpods-removebg-preview.png",
+    "category": "Wireless Bluetooth Earbuds",
+    "description": "Active noise cancellation is up to 2x better than the previous AirPods Pro generation and significantly reduces noise when you listen to music on the way to work or need to focus.",
+    "price": 249.99,
+    "rating": { "rate": 4.8, "count": 345 }
+  },
+  {
+    "id": 9,
+    "title": "Razer Serien Emote",
+    "image": "https://m.media-amazon.com/images/I/71pH95tDwuL._AC_SL1500_.jpg",
+    "category": "Soundsystems",
+    "description": "8-Bit-LED-Display, Stream-Reaktiv",
+    "price": 149.99,
+    "rating": { "rate": 3.8, "count": 57 }
+  },
+  {
+    "id": 10,
+    "title": "SAMSUNG 980 1TB M2 SSD",
+    "image": "https://m.media-amazon.com/images/I/71y8ZxXgVOL._AC_SL1500_.jpg",
+    "category": "HDD/SSD",
+    "description": "up to 3,500 MB/s",
+    "price": 49.99,
+    "rating": { "rate": 4.5, "count": 870 }
+  },
+  {
+    "id": 11,
+    "title": "Retro Typewriter Keyboard",
+    "image": "https://m.media-amazon.com/images/I/710wn+cVnQL._AC_SL1500_.jpg",
+    "category": "Keyboard",
+    "description": "Wireless Bluetooth 5.0 Keyboard, Mechanical Keyboard ",
+    "price": 119.99,
+    "rating": { "rate": 3.5, "count": 47 }
+  },
+  {
+    "id": 12,
+    "title": "Apple 2022 11 iPad Pro",
+    "image": "https://m.media-amazon.com/images/I/81gC7frRJyL._AC_SL1500_.jpg",
+    "category": "Tablet",
+    "description": "4. Generation, 128GB Wi-Fi",
     "price": 249.99,
     "rating": { "rate": 2.5, "count": 70 }
   }
